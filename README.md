@@ -11,3 +11,5 @@ The purpose of this is to showcase some of the basic functions of outputting lis
 >6.  Inside the for loop increment the counter by 1.
 >7.  Add a print statement outside the for loop to print the value of the count variable.\
 >8.  Finally, add a break statement directly after the print statement inside the if condition for finding the number.
+
+These instructions were written by Meta for their Introductory Pyhton course on Coursera.
