@@ -1,6 +1,8 @@
 # Loops_and_Lists
 Python - Use a For loop to output list items. 
 
+The purpose of this is to showcase some of the basic functions of outputting list items using 'For' loops.
+
 >1.   Under the num_list create a new for loop and print out each value on the list in sequential order.
 >2.  Inside the for loop, create a condition that will look for all numbers that are greater than 45 and print out only numbers that meet that condition
 >3.  Change the print statement to “Over 45” and add an else condition with a print statement of “Under 45”.
