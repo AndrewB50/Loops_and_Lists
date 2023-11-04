@@ -18,7 +18,7 @@ Output:
 36 Under 45
 62 Over 45
 78 Over 45
-43 Under 45
+43 Under 45 
 88 Over 45
 39 Under 45
 53 Over 45
